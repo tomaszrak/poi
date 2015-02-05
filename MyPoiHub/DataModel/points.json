@@ -1,0 +1,157 @@
+{
+    "Groups": [
+        {
+            "UniqueId": "Cinemas",
+            "Title": "Cinemas",
+            "ImagePath": "Assets/Cinema.png",
+            "Items": [
+                {
+                    "UniqueId": "Helios ul.Powstancow",
+                    "Title": "Helios",
+                    "Subtitle": "ul.Powstancow",
+                    "Type": "Cinemas",
+                    "ImagePath": "Assets/Cinema.png",
+                    "Latitude": 50.0197,
+                    "Longitude": 21.9908
+                },
+                {
+                    "UniqueId": "Helios Galeria Rzeszow",
+                    "Title": "Helios",
+                    "Subtitle": "Galeria Rzeszow",
+                    "Type": "Cinemas",
+                    "ImagePath": "Assets/Cinema.png",
+                    "Latitude": 50.0420,
+                    "Longitude": 21.9982
+                },
+                {
+                    "UniqueId": "Multikino",
+                    "Title": "Multikino",
+                    "Subtitle": "",
+                    "Type": "Cinemas",
+                    "ImagePath": "Assets/Cinema.png",
+                    "Latitude": 50.0266,
+                    "Longitude": 22.0132
+                },
+                {
+                    "UniqueId": "Kino Zorza",
+                    "Title": "Kino Zorza",
+                    "Subtitle": "",
+                    "Type": "Cinemas",
+                    "ImagePath": "Assets/Cinema.png",
+                    "Latitude": 50.0350,
+                    "Longitude": 22.0009
+                }
+            ]
+        },
+        {
+            "UniqueId": "Gas Stations",
+            "Title": "Gas Stations",
+            "ImagePath": "Assets/Gas.png",
+            "Items": [
+                {
+                    "UniqueId": "Shell ul.Powstancow",
+                    "Title": "Shell",
+                    "Subtitle": "ul.Powstancow",
+                    "Type": "Gas Stations",
+                    "ImagePath": "Assets/Gas.png",
+                    "Latitude": 50.020677,
+                    "Longitude": 21.993587
+                },
+                {
+                    "UniqueId": "Eksa",
+                    "Title": "Eksa",
+                    "Subtitle": "",
+                    "Type": "Gas Stations",
+                    "ImagePath": "Assets/Gas.png",
+                    "Latitude": 50.020022,
+                    "Longitude": 21.991980
+                },
+                {
+                    "UniqueId": "Lotos",
+                    "Title": "Lotos",
+                    "Subtitle": "",
+                    "Type": "Gas Stations",
+                    "ImagePath": "Assets/Gas.png",
+                    "Latitude": 50.028995,
+                    "Longitude": 21.976903
+                },
+                {
+                    "UniqueId": "Tulipan. Stacja BP",
+                    "Title": "Tulipan",
+                    "Subtitle": "Stacja BP",
+                    "Type": "Gas Stations",
+                    "ImagePath": "Assets/Gas.png",
+                    "Latitude": 50.018346,
+                    "Longitude": 22.014790
+                },
+                {
+                    "UniqueId": "E.Leclerc",
+                    "Title": "E.Leclerc",
+                    "Subtitle": "",
+                    "Type": "Gas Stations",
+                    "ImagePath": "Assets/Gas.png",
+                    "Latitude": 50.018601,
+                    "Longitude": 22.018194
+                }
+            ]
+        },
+        {
+            "UniqueId": "Restaurants",
+            "Title": "Restaurants",
+            "ImagePath": "Assets/Restaurant.png",
+            "Items": [
+                {
+                    "UniqueId": "McDonald's ul.Powstancow",
+                    "Title": "McDonald's",
+                    "Subtitle": "ul.Powstancow",
+                    "Type": "Restaurant",
+                    "ImagePath": "Assets/Restaurant.png",
+                    "Latitude": 50.018601,
+                    "Longitude": 21.993553
+                },
+                {
+                    "UniqueId": "McDonald's ul.Lwowska",
+                    "Title": "McDonald's ul.Lwowska",
+                    "Subtitle": "ul.Lwowska",
+                    "Type": "Restaurant",
+                    "ImagePath": "Assets/Restaurant.png",
+                    "Latitude": 50.018601,
+                    "Longitude": 22.018194
+                },
+                {
+                    "UniqueId": "MAXIPIZZA",
+                    "Title": "MAXIPIZZA",
+                    "Subtitle": "",
+                    "Type": "Restaurant",
+                    "ImagePath": "Assets/Restaurant.png",
+                    "Latitude": 50.018601,
+                    "Longitude": 22.018194
+                }
+            ]
+        },
+        {
+            "UniqueId": "Landscapes",
+            "Title": "Landscapes",
+            "ImagePath": "Assets/Landscape.png",
+            "Items": [
+                {
+                    "UniqueId": "Pomnik Czynu Rewolucyjnego",
+                    "Title": "Pomnik Czynu Rewolucyjnego",
+                    "Subtitle": "",
+                    "Type": "Restaurant",
+                    "ImagePath": "Assets/Landscape.png",
+                    "Latitude": 50.0403322,
+                    "Longitude": 21.999451
+                }
+            ]
+        },
+		{
+            "UniqueId": "Others",
+            "Title": "Others",
+            "ImagePath": "Assets/Others.png",
+            "Items": [
+                
+            ]
+        }
+     ]
+}
